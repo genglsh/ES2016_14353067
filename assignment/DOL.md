@@ -6,11 +6,11 @@
 
 ### 修改部分截图：
 
-​				![img](file:///C:\Users\lenovo\AppData\Local\Temp\ksohtml\wps9E77.tmp.jpg)-->   
+​				![img](http://p1.bpimg.com/567571/b7146d1fa152a327.png)-->   
 
 ### 实验结果截图：
 
-​			![img](file:///C:\Users\lenovo\AppData\Local\Temp\ksohtml\wps50D3.tmp.jpg)    
+​				![img](http://p1.bpimg.com/567571/1c0bd2a651b2f11b.png)    
 
 ### 修改思路：
 
@@ -20,7 +20,7 @@
 
 ​			
 
-​               ![img](file:///C:\Users\lenovo\AppData\Local\Temp\ksohtml\wps68B5.tmp.jpg)->
+​               ![img](http://p1.bpimg.com/567571/c4055c64e2abe731.png)->
 
 ## 实验任务2：
 
@@ -28,11 +28,11 @@
 
 ### 修改部分的截图：
 
-​			![img](file:///C:\Users\lenovo\AppData\Local\Temp\ksohtml\wps285F.tmp.jpg)->
+​			![img](http://p1.bpimg.com/567571/b087bb6c17be56d7.png)->
 
 ### 实验结果截图：
 
-​			![img](file:///C:\Users\lenovo\AppData\Local\Temp\ksohtml\wps89BA.tmp.jpg)->
+​			![img](http://p1.bpimg.com/567571/4b9a88bb6b8377f7.png)->
 
 ### 修改思路：
 
@@ -40,7 +40,7 @@
 
 ### .dot截图：
 
-​				![img](file:///C:\Users\lenovo\AppData\Local\Temp\ksohtml\wpsC03.tmp.jpg)>->
+​				![img](http://p1.bpimg.com/567571/255b948d9c4d4ad3.png)>->
 
 ## 实验感想：
 
